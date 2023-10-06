@@ -4,8 +4,7 @@ Variables
         mention : chaine de caracteres
 Debut
     ecrire(¨taper la 1ere note , 2eme note , 3eme note : ¨)
-    lire(n1 , n2 , n3)    
-    m <-- (n1 + n2 + n3)/3
+    lire(n1 , n2 , n3)
     tantque n1>20 ou n1<0 faire
     ecrire("taper dans la 1ere note un nombre entre 0 et 20 : ")
     lire(n1)
@@ -16,6 +15,7 @@ Debut
     tantque n3>20 ou n3<0 faire 
     ecrire(¨taper dans la 3eme note un nombre entre 0 et 20 : ¨)    
     fin tantque
+m <-- (n1 + n2 + n3)/3
     si m>=16 alors
     mention <-- ¨tres bien¨
     sinon 
