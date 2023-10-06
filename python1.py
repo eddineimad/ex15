@@ -7,7 +7,7 @@ while n2>20 or n2<0 :
     n2=float(input(¨type in the second mark a number between 0 and 20 : ¨))
 while n3>20 or n3<0 :
     n3=float(input(¨type in the third mark a number between 0 and 20 : ¨))
-M=(n1+n2+n3)/3                    
+m=(n1+n2+n3)/3                    
 if m>=16 :
     mention = ¨very good¨
 elif m>=14 and m<16 :
