@@ -33,4 +33,4 @@ m <-- (n1 + n2 + n3)/3
     fin si 
     fin si 
     fin si 
-    ecrire(¨la moyenne detudiant est : ",m," est : ",f)
+    ecrire(¨la moyenne detudiant est : ",m," est : ",mention)
