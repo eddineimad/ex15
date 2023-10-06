@@ -33,6 +33,4 @@ Debut
     fin si 
     fin si 
     fin si 
-    ecrire(¨la moyenne detudiant est : ¨ , m)     
-    ecrire(¨la mention detudiant est : ¨ , mention)
-    Fin
+    ecrire(¨la moyenne detudiant est : ",m," est : ",f)
