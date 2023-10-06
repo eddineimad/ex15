@@ -18,5 +18,5 @@ elif m>=10 and m<12 :
     mention = ¨standard¨
 else :
     mention = ¨insufficient¨
-print(¨the average is :, m ,¨it's ¨,mention)            
+print(¨the average is : ", m ,¨it's ¨,mention)            
                                                                            
